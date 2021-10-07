@@ -30,6 +30,7 @@ using namespace std;
     freopen("output.txt", "w", stdout);
 #define FIO ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
  
+//Inserting a Node after a Given Node
 class node{
     public:
     int data;
